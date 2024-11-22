@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2",
+    "zod": "^3.23.8"
+  },
+  "name": "bookmanagement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
