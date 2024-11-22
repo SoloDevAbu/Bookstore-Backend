@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://admin:0ighEra5PvSAGn5n@cluster0.gblax.mongodb.net/bookStore");
+mongoose.connect("MONGO_URI");
 
 const AuthorSchema = new mongoose.Schema({
     authorname: String,
